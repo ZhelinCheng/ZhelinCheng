@@ -175,8 +175,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2022 - To: 23 May 2022
-
 Total Time: 33 hrs 32 mins
 
 TypeScript   22 hrs 57 mins  █████████████████░░░░░░░░   68.12 %
