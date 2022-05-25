@@ -172,16 +172,12 @@ Here are some ideas to get you started:
 	</a>
 </p>
 
-<p>
-    <img style="max-height: 160px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=zhelincheng&show_icons=true&locale=en&layout=compact"
-        alt="zhelincheng" />
-    <img style="max-height: 160px;"
-        src="https://github-readme-stats.vercel.app/api?username=zhelincheng&show_icons=true&locale=en"
-        alt="zhelincheng" />
-    <img style="max-height: 160px;" src="https://github-readme-streak-stats.herokuapp.com/?user=zhelincheng&"
-        alt="zhelincheng" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhelincheng&show_icons=true&locale=en&layout=compact" alt="zhelincheng" /> </p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhelincheng&show_icons=true&locale=en" alt="zhelincheng" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhelincheng&" alt="zhelincheng" /></p>
+
 
 ### 📊 Weekly development breakdown
 
