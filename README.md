@@ -31,13 +31,15 @@ Here are some ideas to get you started:
 ### 📝 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [《敏捷革命》读后感](https://zhelin.me/a833d3d09b637363/)
-- [Nest.js学习笔记](https://zhelin.me/523e5859795170ae/)
-- [TypeScript：Aho–Corasick算法实现敏感词过滤](https://zhelin.me/83e19b1a7821ce77/)
+- [Nest.js 学习笔记](https://zhelin.me/523e5859795170ae/)
+- [TypeScript：Aho–Corasick 算法实现敏感词过滤](https://zhelin.me/83e19b1a7821ce77/)
 - [前端基础算法——快速排序](https://zhelin.me/db0350b2407a4c6e/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🧠 Languages and Tools:
+
 <p align="left">
 	<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
@@ -168,6 +170,17 @@ Here are some ideas to get you started:
 		<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
 		alt="webpack" width="40" height="40" />
 	</a>
+</p>
+
+<p>
+    <img style="max-height: 160px;"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=zhelincheng&show_icons=true&locale=en&layout=compact"
+        alt="zhelincheng" />
+    <img style="max-height: 160px;"
+        src="https://github-readme-stats.vercel.app/api?username=zhelincheng&show_icons=true&locale=en"
+        alt="zhelincheng" />
+    <img style="max-height: 160px;" src="https://github-readme-streak-stats.herokuapp.com/?user=zhelincheng&"
+        alt="zhelincheng" />
 </p>
 
 ### 📊 Weekly development breakdown
