@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Zhelin</h1>
 <h3 align="center">A passionate frontend developer from China.</h3>
 
+<p align="center">
+<img src="https://leetcode-badge.haozibi.dev/v1cn/czhelin.svg" />
+<img src="https://leetcode-badge.haozibi.dev/v1cn/solved/czhelin.svg" />
+<img src="https://leetcode-badge.haozibi.dev/v1cn/accepted/czhelin.svg" />
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhelincheng" alt="zhelincheng" /></a> </p>
 
 - 🌱 I’m currently learning **《Scrum:The Art of Doing Twice the Work in Half the Time》**
