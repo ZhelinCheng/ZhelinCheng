@@ -195,6 +195,6 @@ Bash         13 mins         ▒░░░░░░░░░░░░░░░░
 
 ### 💡 Github stats
 
-<p align="center"><img height='160px' src="https://github-readme-stats.vercel.app/api?username=zhelincheng&show_icons=true&locale=en" alt="zhelincheng" /><img height='160px' src="https://github-readme-streak-stats.herokuapp.com/?user=zhelincheng&" alt="zhelincheng" /></p>
+<p align="left"><img height='160px' src="https://github-readme-stats.vercel.app/api?username=zhelincheng&show_icons=true&locale=en" alt="zhelincheng" /><img height='160px' src="https://github-readme-streak-stats.herokuapp.com/?user=zhelincheng&" alt="zhelincheng" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhelincheng&label=Profile%20views&color=0e75b6&style=flat" alt="zhelincheng" /> </p>
