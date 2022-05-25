@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 - [《敏捷革命》读后感](https://zhelin.me/a833d3d09b637363/)
-- [Nest.js 学习笔记](https://zhelin.me/523e5859795170ae/)
-- [TypeScript：Aho–Corasick 算法实现敏感词过滤](https://zhelin.me/83e19b1a7821ce77/)
+- [Nest.js学习笔记](https://zhelin.me/523e5859795170ae/)
+- [TypeScript：Aho–Corasick算法实现敏感词过滤](https://zhelin.me/83e19b1a7821ce77/)
 - [前端基础算法——快速排序](https://zhelin.me/db0350b2407a4c6e/)
 <!-- BLOG-POST-LIST:END -->
 
