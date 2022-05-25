@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ### 🧠 Languages and Tools:
-
+<p align="center"><img height='160px' src="https://github-readme-stats.vercel.app/api?username=zhelincheng&show_icons=true&locale=en" alt="zhelincheng" /><img height='160px' src="https://github-readme-streak-stats.herokuapp.com/?user=zhelincheng&" alt="zhelincheng" /></p>
 <p align="center">
 	<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
@@ -175,8 +175,6 @@ Here are some ideas to get you started:
 		alt="webpack" width="40" height="40" />
 	</a>
 </p>
-
-<p align="center"><img height='160px' src="https://github-readme-stats.vercel.app/api?username=zhelincheng&show_icons=true&locale=en" alt="zhelincheng" /><img height='160px' src="https://github-readme-streak-stats.herokuapp.com/?user=zhelincheng&" alt="zhelincheng" /></p>
 
 ### 📊 Weekly development breakdown
 
