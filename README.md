@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhelincheng" alt="zhelincheng" /></a> </p>
 
-- 🌱 I’m currently learning **《Scrum:The Art of Doing Twice the Work in Half the Time》**
+- 🌱 I’m currently learning **"Scrum:The Art of Doing Twice the Work in Half the Time"**
 
 - 📝 I regularly write articles on [https://zhelin.me](https://zhelin.me)
 
