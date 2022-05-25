@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://leetcode-badge.haozibi.dev/v1cn/accepted/czhelin.svg" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhelincheng" alt="zhelincheng" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhelincheng" alt="zhelincheng" /></a> </p>
 
 - 🌱 I’m currently learning **"Scrum:The Art of Doing Twice the Work in Half the Time"**
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ### 🧠 Languages and Tools:
 
-<p align="left">
+<p align="center">
 	<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
 		alt="babel" width="40" height="40" />
@@ -176,7 +176,7 @@ Here are some ideas to get you started:
 	</a>
 </p>
 
-<p><img height='160px' src="https://github-readme-stats.vercel.app/api?username=zhelincheng&show_icons=true&locale=en" alt="zhelincheng" /><img height='160px' src="https://github-readme-streak-stats.herokuapp.com/?user=zhelincheng&" alt="zhelincheng" /></p>
+<p align="center"><img height='160px' src="https://github-readme-stats.vercel.app/api?username=zhelincheng&show_icons=true&locale=en" alt="zhelincheng" /><img height='160px' src="https://github-readme-streak-stats.herokuapp.com/?user=zhelincheng&" alt="zhelincheng" /></p>
 
 ### 📊 Weekly development breakdown
 
