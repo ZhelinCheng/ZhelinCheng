@@ -17,9 +17,17 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from China.</h3>
 
 <p align="center">
+<a href="https://leetcode.cn/u/czhelin/">
 <img src="https://leetcode-badge.haozibi.dev/v1cn/czhelin.svg" />
+</a>
+
+<a href="https://leetcode.cn/u/czhelin/">
 <img src="https://leetcode-badge.haozibi.dev/v1cn/solved/czhelin.svg" />
+</a>
+
+<a href="https://leetcode.cn/u/czhelin/">
 <img src="https://leetcode-badge.haozibi.dev/v1cn/accepted/czhelin.svg" />
+</a>
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhelincheng&row=1&margin-w=10" alt="zhelincheng" /></a> </p>
