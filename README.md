@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://leetcode-badge.haozibi.dev/v1cn/accepted/czhelin.svg" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=zhelincheng&label=Profile%20views&color=0e75b6&style=flat" alt="zhelincheng" />
+<img src="https://komarev.com/ghpvc/?username=zhelincheng&label=GitHub%20展示&color=0e75b6&style=flat" alt="zhelincheng" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhelincheng&row=1&margin-w=10" alt="zhelincheng" /></a> </p>
