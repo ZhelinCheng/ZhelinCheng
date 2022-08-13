@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 ### 📝 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React核心回顾](https://zhelin.me/92c2857df42fa342/)
 - [Rust学习笔记](https://zhelin.me/229fbf9ebf2b57f6/)
 - [《敏捷革命》读后感](https://zhelin.me/a833d3d09b637363/)
 - [Nest.js学习笔记](https://zhelin.me/523e5859795170ae/)
-- [TypeScript：Aho–Corasick算法实现敏感词过滤](https://zhelin.me/83e19b1a7821ce77/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🧠 Languages and Tools:
