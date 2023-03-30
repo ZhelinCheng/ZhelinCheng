@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 ### 📝 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://zhelin.me/493c3cffebcb6940/)
 - [从0到1了解前端优化](https://zhelin.me/1693a9bd6469ed1b/)
 - [React核心回顾](https://zhelin.me/92c2857df42fa342/)
 - [Rust学习笔记](https://zhelin.me/229fbf9ebf2b57f6/)
-- [《敏捷革命》读后感](https://zhelin.me/a833d3d09b637363/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🧠 Languages and Tools:
