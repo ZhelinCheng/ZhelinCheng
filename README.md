@@ -192,11 +192,11 @@ Here are some ideas to get you started:
 ```text
 Total Time: 23 hrs 37 mins
 
-TypeScript   18 hrs 22 mins  ███████████████████▒░░░░░   77.54 %
-SCSS         2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-Less         1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-JSON         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-JavaScript   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+TypeScript   18 hrs 30 mins  ███████████████████▓░░░░░   78.13 %
+Less         1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+SCSS         1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+JSON         58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+JavaScript   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
