@@ -192,9 +192,9 @@ Here are some ideas to get you started:
 ```text
 Total Time: 23 hrs 9 mins
 
-TypeScript   18 hrs 58 mins  ████████████████████▒░░░░   81.87 %
-SCSS         1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-Less         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+TypeScript   18 hrs 57 mins  ████████████████████▒░░░░   81.86 %
+SCSS         1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Less         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 Dart         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
