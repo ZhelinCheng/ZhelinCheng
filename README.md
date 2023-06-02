@@ -189,7 +189,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 26 hrs 26 mins
 
 TypeScript   21 hrs 37 mins  ████████████████████▒░░░░   81.35 %
