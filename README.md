@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 ### 📝 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RouterOS v7通过MAC地址获取IPv6并上报至DNSPod](https://zhelin.me/article/7f5bdbb2857e15aa/)
 - [Docker管理工具Portainer重置密码](https://zhelin.me/article/55a64d40ffbb030d/)
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://zhelin.me/article/493c3cffebcb6940/)
 - [React核心回顾](https://zhelin.me/article/92c2857df42fa342/)
-- [Rust学习笔记](https://zhelin.me/article/229fbf9ebf2b57f6/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🧠 Languages and Tools:
