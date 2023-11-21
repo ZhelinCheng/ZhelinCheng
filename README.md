@@ -192,11 +192,7 @@ Here are some ideas to get you started:
 ```txt
 Total Time: 20 hrs 11 mins
 
-TypeScript   13 hrs 38 mins  █████████████████░░░░░░░░   67.61 %
-JavaScript   3 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
-JSON         1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-Less         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Dart         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
