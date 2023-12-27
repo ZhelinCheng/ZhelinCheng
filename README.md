@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 - [掌握Linux防火墙：iptables与nftables详解](https://zhelin.me/post/281bb7afdc9b8a8f/)
+- [RouterOS 根据 Fake IP 分流至 Linux 旁路网关](https://zhelin.me/post/e4aba903f3826e7b/)
 - [《React设计原理》读书笔记](https://zhelin.me/post/1ad636b819433d3d/)
 - [RouterOS v7 通过 MAC 地址获取IPv6并上报至 DNSPod / CloudFlare](https://zhelin.me/post/7f5bdbb2857e15aa/)
-- [Docker管理工具Portainer重置密码](https://zhelin.me/post/55a64d40ffbb030d/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🧠 Languages and Tools:
