@@ -192,9 +192,9 @@ Here are some ideas to get you started:
 ```txt
 Total Time: 18 hrs 49 mins
 
-TypeScript   15 hrs 56 mins  █████████████████████░░░░   84.29 %
+TypeScript   15 hrs 56 mins  █████████████████████░░░░   84.33 %
 JavaScript   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-JSON         44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+JSON         44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 Dart         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 EJS          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
