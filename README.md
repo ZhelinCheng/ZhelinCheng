@@ -193,8 +193,8 @@ Here are some ideas to get you started:
 Total Time: 14 hrs 5 mins
 
 TypeScript   5 hrs 16 mins   █████████▒░░░░░░░░░░░░░░░   37.27 %
-JavaScript   4 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   28.68 %
-Dart         2 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
+JavaScript   4 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   28.67 %
+Dart         2 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
 HTML         1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
 JSON         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
 ```
