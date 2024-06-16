@@ -192,8 +192,8 @@ Here are some ideas to get you started:
 ```txt
 Total Time: 29 hrs 35 mins
 
-Dart         12 hrs 30 mins  ██████████▓░░░░░░░░░░░░░░   42.24 %
-JavaScript   9 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   32.20 %
+Dart         12 hrs 30 mins  ██████████▓░░░░░░░░░░░░░░   42.23 %
+JavaScript   9 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   32.21 %
 TypeScript   4 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
 CSS          48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 HTML         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
