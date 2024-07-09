@@ -190,13 +190,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 30 hrs 45 mins
+Total Time: 23 hrs 3 mins
 
-TypeScript   17 hrs 21 mins  ██████████████░░░░░░░░░░░   56.23 %
-JavaScript   5 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
-Less         2 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-HTML         2 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-JSON         1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+TypeScript   12 hrs 59 mins  ██████████████░░░░░░░░░░░   56.02 %
+JavaScript   3 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+Less         2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+HTML         2 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+JSON         1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
 ```
 
 <!--END_SECTION:waka-->
