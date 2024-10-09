@@ -190,9 +190,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 56 mins
 
-No activity tracked
+Dart         1 hr 22 mins    █████████████████▓░░░░░░░   70.87 %
+JavaScript   20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
+TypeScript   13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
