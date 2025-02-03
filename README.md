@@ -190,12 +190,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 21 mins
+Total Time: 0 secs
 
-JSON         20 mins         ███████████████████████▓░   94.93 %
-TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
