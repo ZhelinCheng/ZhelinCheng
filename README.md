@@ -190,9 +190,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 hrs 42 mins
 
-No activity tracked
+YAML              1 hr 31 mins    ██████████████░░░░░░░░░░░   56.14 %
+Dart              50 mins         ███████▓░░░░░░░░░░░░░░░░░   30.80 %
+Java Properties   20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
