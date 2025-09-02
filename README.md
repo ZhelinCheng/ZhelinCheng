@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 📝 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [如何下载App Store应用的旧版本（详细教程）](https://zhelin.me/post/2ad0bda53a4d7fdd/)
+- [如何下载App Store应用的旧版本教程](https://zhelin.me/post/2ad0bda53a4d7fdd/)
 - [美女占位图生成器推荐：开发者专用 Placeholder Image Service](https://zhelin.me/post/255eab43d3457e40/)
 - [掌握Linux防火墙：iptables与nftables详解](https://zhelin.me/post/281bb7afdc9b8a8f/)
 - [RouterOS 根据 Fake IP 分流至 Linux 旁路网关](https://zhelin.me/post/e4aba903f3826e7b/)
