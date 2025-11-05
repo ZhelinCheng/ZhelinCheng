@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 - [snapDOM——新一代网页截图 PDF 生成方案](https://zhelin.me/post/8f412a886b1dffcb/)
-- [如何下载App Store应用的旧版本教程](https://zhelin.me/post/2ad0bda53a4d7fdd/)
+- [如何下载安装App Store应用旧版本教程](https://zhelin.me/post/2ad0bda53a4d7fdd/)
 - [美女占位图生成器推荐：开发者专用 Placeholder Image Service](https://zhelin.me/post/255eab43d3457e40/)
 - [掌握Linux防火墙：iptables与nftables详解](https://zhelin.me/post/281bb7afdc9b8a8f/)
 <!-- BLOG-POST-LIST:END -->
