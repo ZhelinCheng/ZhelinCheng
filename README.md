@@ -192,11 +192,11 @@ Here are some ideas to get you started:
 ```txt
 Total Time: 30 hrs 17 mins
 
-Rust         14 hrs 45 mins  ████████████▒░░░░░░░░░░░░   48.73 %
-TypeScript   6 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
-Typst        4 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-HTML         2 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-JavaScript   49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Rust         13 hrs 41 mins  ███████████▒░░░░░░░░░░░░░   45.19 %
+TypeScript   6 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
+Typst        5 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
+HTML         2 hrs 43 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+JavaScript   1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
