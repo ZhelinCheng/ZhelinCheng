@@ -190,13 +190,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 hrs 28 mins
+Total Time: 11 hrs 38 mins
 
-Markdown        5 hrs 18 mins         ██████████▒░░░░░░░░░░░░░░   41.95 %
-TypeScript      4 hrs 16 mins         ████████▒░░░░░░░░░░░░░░░░   33.87 %
-Other           1 hr 10 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-JSON            38 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-WiX Installer   21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Markdown        5 hrs 5 mins          ██████████▒░░░░░░░░░░░░░░   41.88 %
+TypeScript      4 hrs 3 mins          ████████▒░░░░░░░░░░░░░░░░   33.44 %
+JavaScript      1 hr 21 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+Other           30 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+JSON            27 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 
 <!--END_SECTION:waka-->
