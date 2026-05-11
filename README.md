@@ -192,11 +192,11 @@ Here are some ideas to get you started:
 ```txt
 Total Time: 16 hrs 10 mins
 
-TypeScript    5 hrs 54 mins         █████████░░░░░░░░░░░░░░░░   35.81 %
-Markdown      3 hrs 30 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
+TypeScript    5 hrs 54 mins         █████████░░░░░░░░░░░░░░░░   35.79 %
+Markdown      3 hrs 30 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
 Dart          3 hrs 10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
-YAML          1 hr 36 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-HTML          57 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+YAML          1 hr 36 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+HTML          58 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
 ```
 
 <!--END_SECTION:waka-->
