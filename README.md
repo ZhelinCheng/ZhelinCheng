@@ -190,13 +190,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 19 mins
+Total Time: 9 hrs 29 mins
 
-TypeScript    4 hrs 16 mins         ███████▓░░░░░░░░░░░░░░░░░   31.00 %
-Rust          3 hrs 26 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
-YAML          1 hr 18 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-TOML          57 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-Markdown      43 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+TypeScript   2 hrs 31 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
+Rust         2 hrs 6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
+YAML         1 hr 14 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+TOML         57 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+Typst        31 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
 ```
 
 <!--END_SECTION:waka-->
